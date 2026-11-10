@@ -1,2 +1,1 @@
-Practicing git..
-Another line
+this is my feature branch
